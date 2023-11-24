@@ -1,0 +1,23 @@
+.header__name{
+    font-family: 'Comfortaa', sans-serif;
+}
+nav a{
+    text-decoration: none;
+    color: black;
+    font-family: 'Raleway', sans-serif;
+}
+.upper-text {
+    font-family: 'Nunito', sans-serif;
+    font-weight: 700; 
+    color: #FDC435;
+}
+.title {
+   font-family: 'Playfair Display', serif; 
+}
+.main-content{
+    font-family: 'Nunito', sans-serif;
+    font-weight: 400;
+}
+.button{
+    font-family: 'Roboto', sans-serif;
+}
