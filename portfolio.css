@@ -1,3 +1,15 @@
+.main-container{
+    width: 1500px;
+    height: 3000px;
+    box-sizing: border-box;
+}
+.header{
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    gap: 780px;
+    
+}
 .header__name{
     font-family: 'Comfortaa', sans-serif;
 }
@@ -12,13 +24,25 @@ nav a{
     color: #FDC435;
 }
 .title {
+    width: 530px;
+    height: 150px;
    font-family: 'Playfair Display', serif; 
    font-size: 64px;
+   padding-bottom: 35px;
 }
 .main-content{
     font-family: 'Nunito', sans-serif;
     font-weight: 400;
+    width: 430px;
+    padding-bottom: 30px;
 }
 .button{
     font-family: 'Roboto', sans-serif;
+}
+.main__image{
+    width: 720px;
+    height: 630px;
+    display: flex;
+    justify-content: end;
+    align-items: end;
 }
