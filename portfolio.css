@@ -9,7 +9,7 @@
     flex-direction: row;
     gap: 780px;
     
-}
+} 
 .header__name{
     font-family: 'Comfortaa', sans-serif;
 }
@@ -41,8 +41,10 @@ nav a{
 }
 .main__image{
     width: 720px;
-    height: 630px;
+    height: 570px;
     display: flex;
-    justify-content: end;
-    align-items: end;
+    flex-direction: row;
+    position: absolute;
+    left: 550px;
+    top: -20px;
 }
